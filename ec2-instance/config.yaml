@@ -1,0 +1,6 @@
+context: {}
+
+remote_states:
+  "network":
+    organization: "seank03"
+    workspace: "terraform-lab-network"

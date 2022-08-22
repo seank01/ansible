@@ -1,0 +1,7 @@
+[amazon]
+amazon1 ansible_host=15.165.75.161
+amazon2 ansible_host=3.38.151.215
+
+[ubuntu]
+ubuntu1 ansible_host=ec2-15-165-18-186.ap-northeast-2.compute.amazonaws.com
+ubuntu2 ansible_host=ec2-3-39-235-183.ap-northeast-2.compute.amazonaws.com

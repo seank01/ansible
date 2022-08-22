@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"sg__ssh","Source":"registry.terraform.io/tedilabs/network/aws//modules/security-group","Version":"0.24.0","Dir":".terraform/modules/sg__ssh/modules/security-group"}]}
